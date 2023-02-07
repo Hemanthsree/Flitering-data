@@ -1,0 +1,15 @@
+img{
+    height:250px;
+    width:300px;
+    padding:10px;
+}
+.container{
+    margin-top:10px; 
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    height: 100%;
+    width: 600px;
+    border: solid skyblue 3px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px skyblue; 
+}
